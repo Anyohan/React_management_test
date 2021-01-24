@@ -24,7 +24,7 @@ const styles = theme => ({
 const customers =[
 {
 	'id':1,
-	'image':'https://placeimg.com/64/64/1',
+	'image':'../yohan.jpeg',
 	'name': '안요한',
 	'birthday':'980324',
 	'gender':'남자',
@@ -32,7 +32,7 @@ const customers =[
 },
 {
 	'id':2,
-	'image':'https://placeimg.com/64/64/2',
+	'image':'../jail.jpeg',
 	'name': '이제일',
 	'birthday':'990916',
 	'gender':'남자',
@@ -40,11 +40,11 @@ const customers =[
 },
 {
 	'id':3,
-	'image':'https://placeimg.com/64/64/3',
-	'name': '문홍진',
-	'birthday':'010203',
+	'image':'../samuel.jpeg',
+	'name': '전주원',
+	'birthday':'981234',
 	'gender':'남자',
-	'job':'입시생'
+	'job':'브라질태생 은평구 농부'
 }
 ]
 
